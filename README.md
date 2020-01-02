@@ -10,7 +10,7 @@ file names, if necessary, to avoid overwriting.
                 [multiseqfile]`
 
 ## Options
-`
+```
 positional arguments:
   multiseqfile          Input multi-sequence file [default: stdin].
 
@@ -19,7 +19,7 @@ optional arguments:
   -f {fasta,clustal,embl,genbank,imgt,phd,pir,tab}, --format {fasta,clustal,embl,genbank,imgt,phd,pir,tab}
                         Sequence format [default: fasta].
   -v, --version         Show program's version number and exit.
-`
+```
 
 ## Dependencies
 * Python3
